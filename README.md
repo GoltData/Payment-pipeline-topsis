@@ -15,6 +15,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a0457e50-059d-4443-bb87-199163e67838" width="800" />
 
+◯ ex_rates.csv - файл, содержащий данные для однозначной конвертации разных валют в доллар
 ◯ 1TEAM_XMAS_HACK.py - реализация решения
 # Описание метода
 </p>
